@@ -5,7 +5,7 @@
     <groupId>org.springframework</groupId>
     <artifactId>jb-hello-world-maven</artifactId>
     <packaging>jar</packaging>
-    <version>0.3.0-SANPSHOP</version>
+    <version>0.6.0-SANPSHOP</version>
 
     <!-- tag::joda[] -->
      <properties>
