@@ -4,8 +4,8 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.springframework</groupId>
     <artifactId>jb-hello-world-maven</artifactId>
-    <packaging>jar</packaging>
-    <version>1.0.1-SANPSHOP</version>
+    <packaging>war</packaging>
+    <version>1.0.2-SANPSHOP</version>
 
     <!-- tag::joda[] -->
      <properties>
